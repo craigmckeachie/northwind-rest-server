@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node ./server.js"
+    "start": "json-server db.json"
   },
   "dependencies": {
     "faker": "^4.1.0",
